@@ -1,7 +1,7 @@
 # Peaktew
 
 
-<img src="https://storage.googleapis.com/peaktew_bucket/peaktew_logo.png" alt="Peaktew Logo" width="200">
+<img src="https://storage.googleapis.com/peaktew_bucket/Peak_On.PNG" alt="Peaktew Logo" width="300">
 
 ## Overview
 
